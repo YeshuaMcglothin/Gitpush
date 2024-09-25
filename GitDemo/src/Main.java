@@ -5,6 +5,8 @@ public class Main {
 
         String ThoughtsOnCoding = "I like coding so far";
         boolean DoyouLikeCodingsoFar = true
+        int myage = 19;
+
 
 
     }
